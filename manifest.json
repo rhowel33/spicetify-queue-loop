@@ -1,0 +1,9 @@
+{
+	"name": "Queue Loop",
+	"description": "Repeat your queue without making a playlist. Adds a loop button to the queue panel; clearing the queue turns it off.",
+	"preview": "preview.png",
+	"main": "queueLoop.js",
+	"readme": "README.md",
+	"authors": [{ "name": "rhowel33", "url": "https://github.com/rhowel33" }],
+	"tags": ["queue", "loop", "repeat"]
+}
